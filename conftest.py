@@ -7,13 +7,13 @@ def pytest_addoption(parser):
 
 # Setup fixture with scope mentioned given as Class, hence it will only run once for each Class
 @pytest.fixture(scope='class')
-def SetUp(url,request):
-    browserName = request.config.getoption("-browser")
+def SetUp(request):
+    browserName = request.config.getoption("--browser")
     if browserName.lower() == 'chrome':
         driver = webdriver.Chrome()
     else:
         driver = webdriver.Firefox()
-    driver.get(url)
+    driver.get('https://v1.practicesoftwaretesting.com/#/')
     driver.maximize_window()
     request.cls.driver = driver
     yield 
