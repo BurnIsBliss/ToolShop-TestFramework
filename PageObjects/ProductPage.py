@@ -1,6 +1,7 @@
 from selenium.webdriver.common.by import By
+from Utilities.BaseClass import BaseClass
 
-class ProductPage:
+class ProductPage(BaseClass):
 
     productName = (By.XPATH, "//h1[@data-test='product-name']")
     productPrice = (By.CSS_SELECTOR, 'span[data-test="unit-price"]')
@@ -11,13 +12,14 @@ class ProductPage:
         self.driver = driver
 
     def getProductName(self):
+        self.verifyPageLoad(ProductPage.productName)
         return self.driver.find_element(*ProductPage.productName).text
     
     def getProductPrice(self):
         return self.driver.find_element(*ProductPage.productPrice).text
     
     def getCategoryTag(self):
-        return self.driver.find_element(*ProductPage.categoryTag)
+        return self.driver.find_element(*ProductPage.categoryTag).text
     
     def getRelatedProductsList(self):
         return self.driver.find_elements(*ProductPage.relatedProducts)
