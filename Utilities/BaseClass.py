@@ -21,6 +21,6 @@ class BaseClass:
         return logger
     
     # This function can be used to wait the execution until the page has been loaded completely
-    def verifyPageLoad(self, cssValue):
-        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, cssValue)))
+    def verifyPageLoad(self, elementLocator):
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((elementLocator)))
 
