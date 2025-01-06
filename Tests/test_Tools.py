@@ -1,5 +1,3 @@
-import pytest
-
 from Utilities.BaseClass import BaseClass
 from PageObjects.HomePage import HomePage
 

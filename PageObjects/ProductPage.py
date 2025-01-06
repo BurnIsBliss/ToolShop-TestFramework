@@ -23,7 +23,3 @@ class ProductPage(BaseClass):
     
     def getRelatedProductsList(self):
         return self.driver.find_elements(*ProductPage.relatedProducts)
-
-
-
-
