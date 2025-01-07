@@ -16,9 +16,11 @@ class ProductPage(BaseClass):
         return self.driver.find_element(*ProductPage.productName).text
     
     def getProductPrice(self):
+        self.verifyPageLoad(ProductPage.productPrice)
         return self.driver.find_element(*ProductPage.productPrice).text
     
     def getCategoryTag(self):
+        self.verifyPageLoad(ProductPage.categoryTag)
         return self.driver.find_element(*ProductPage.categoryTag).text
     
     def getRelatedProductsList(self):

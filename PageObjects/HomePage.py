@@ -1,7 +1,8 @@
 from selenium.webdriver.common.by import By
 from PageObjects.ProductPage import ProductPage
+from Utilities.BaseClass import BaseClass
 
-class HomePage:
+class HomePage(BaseClass):
     toolList = (By.CSS_SELECTOR, '.container > .card')
     toolNames = (By.CSS_SELECTOR, '.card-title')
     toolPrices = (By.XPATH, "//span[@data-test='product-price']")

@@ -31,6 +31,7 @@ class TestCategoryPage(BaseClass):
         elif categoryName == "Power Tools":
             categoryObj.selectPowerTools()
             self.verifyPageLoad(categoryObj.getToolContainerElement())
+            time.sleep(1)
             toolList = categoryObj.getToolList()
             toolNames = []
             for tool in toolList:
@@ -39,4 +40,30 @@ class TestCategoryPage(BaseClass):
                 assert "Sander" in tool or "Saw" in tool or "Drill" in tool, "The tool doesn't belong to Sander/Saw/Drill"
             log.info(toolNames)
 
+    def test_CategoryCheckHandTools(self):
+        log = self.getLogger()
+        categoryObj = Category(self.driver)
+        categoryObj.selectHandTools()
+        self.verifyPageLoad(categoryObj.getToolContainerElement())
+        for i in range(1, 19):
+            categoryObj.getIndividualTool(str(i))
+            categoryName = categoryObj.getCategoryTag()
+            log.info('Category:' + categoryName) 
+            assert 'Hammer' in categoryName or 'Screwdriver' in categoryName or 'Pliers' in categoryName or 'Hand Saw' in categoryName or 'Wrench' in categoryName, 'The tool is not a Handle Tool'
+            categoryObj.selectHandTools()
+            self.verifyPageLoad(categoryObj.getToolContainerElement())
 
+    def test_CategoryCheckPowerTools(self):
+        log = self.getLogger()
+        categoryObj = Category(self.driver)
+        categoryObj.selectPowerTools()
+        self.verifyPageLoad(categoryObj.getToolContainerElement())
+        time.sleep(1)
+        for i in range(19, 27):
+            # No issue even if the function returns a value and we are not saving that value to a variable
+            categoryObj.getIndividualTool(str(i))
+            categoryName = categoryObj.getCategoryTag()
+            log.info('Category:' + categoryName) 
+            assert 'Sander' in categoryName or 'Saw' in categoryName or 'Drill' in categoryName
+            categoryObj.selectPowerTools()
+            self.verifyPageLoad(categoryObj.getToolContainerElement())

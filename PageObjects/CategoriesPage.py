@@ -1,7 +1,8 @@
 from selenium.webdriver.common.by import By
 from PageObjects.HomePage import HomePage
+from PageObjects.ProductPage import ProductPage
 
-class Category(HomePage):
+class Category(HomePage, ProductPage):
 
     headingText = (By.CSS_SELECTOR, 'h2[data-test]')
 
