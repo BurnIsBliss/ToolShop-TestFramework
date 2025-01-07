@@ -46,6 +46,18 @@ class TestingTools(BaseClass):
             self.driver.back()
             self.verifyPageLoad(homeObj.getToolContainerElement())
 
+    def test_BrandNameCheck(self):
+        log = self.getLogger()
+        homeObj = HomePage(self.driver)
+        self.verifyPageLoad(homeObj.getToolContainerElement())
+        for i in range(1, 27):
+            toolDetails = homeObj.getIndividualTool(str(i))
+            brandName = toolDetails[0].getBrandName()
+            log.info(brandName)
+            assert 'Brand name 1' in brandName or 'Brand name 2' in brandName, 'Incorrect brand name for the tools'
+            self.driver.back()
+            self.verifyPageLoad(homeObj.getToolContainerElement())
+
     
 
 
