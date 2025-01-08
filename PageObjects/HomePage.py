@@ -46,5 +46,6 @@ class HomePage(BaseClass):
         self.driver.find_element(*HomePage.powerToolsLink).click()
 
     def navigateContactPage(self):
+        self.driver.find_element(*HomePage.contactButton).click()
         contactPageObj = ContactPage(self.driver)
         return contactPageObj
