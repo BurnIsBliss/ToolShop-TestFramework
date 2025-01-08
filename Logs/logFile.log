@@ -1,0 +1,593 @@
+2025-01-04 18:27:57,158 : INFO : test_PriceFormat : $14.15
+2025-01-04 18:27:57,166 : INFO : test_PriceFormat : $12.01
+2025-01-04 18:27:57,172 : INFO : test_PriceFormat : $48.41
+2025-01-04 18:27:57,179 : INFO : test_PriceFormat : $14.24
+2025-01-04 18:27:57,185 : INFO : test_PriceFormat : $9.17
+2025-01-04 18:27:57,192 : INFO : test_PriceFormat : $13.41
+2025-01-04 18:27:57,201 : INFO : test_PriceFormat : $12.58
+2025-01-04 18:27:57,210 : INFO : test_PriceFormat : $11.48
+2025-01-04 18:27:57,218 : INFO : test_PriceFormat : $11.14
+2025-01-04 18:27:57,225 : INFO : test_PriceFormat : $17.75
+2025-01-04 18:27:57,232 : INFO : test_PriceFormat : $20.14
+2025-01-04 18:27:57,238 : INFO : test_PriceFormat : $18.63
+2025-01-04 18:27:57,245 : INFO : test_PriceFormat : $12.18
+2025-01-04 18:27:57,252 : INFO : test_PriceFormat : $20.33
+2025-01-04 18:27:57,259 : INFO : test_PriceFormat : $14.14
+2025-01-04 18:27:57,266 : INFO : test_PriceFormat : $38.51
+2025-01-04 18:27:57,273 : INFO : test_PriceFormat : $4.92
+2025-01-04 18:27:57,279 : INFO : test_PriceFormat : $13.96
+2025-01-04 18:27:57,286 : INFO : test_PriceFormat : $58.48
+2025-01-04 18:27:57,294 : INFO : test_PriceFormat : $73.59
+2025-01-04 18:27:57,302 : INFO : test_PriceFormat : $80.19
+2025-01-04 18:27:57,309 : INFO : test_PriceFormat : $100.79
+2025-01-04 18:27:57,317 : INFO : test_PriceFormat : $125.23
+2025-01-04 18:27:57,324 : INFO : test_PriceFormat : $66.54
+2025-01-04 18:27:57,331 : INFO : test_PriceFormat : $119.24
+2025-01-04 18:27:57,337 : INFO : test_PriceFormat : $46.50
+2025-01-04 18:29:12,993 : INFO : test_TotalNumberOfTools : Total number of tools: 26
+2025-01-04 18:29:13,034 : INFO : test_Capitalization : Skipped words with
+2025-01-04 18:29:13,051 : INFO : test_Capitalization : Skipped words with
+2025-01-04 18:29:13,065 : INFO : test_Capitalization : Skipped words (Set)
+2025-01-04 18:29:13,082 : INFO : test_Capitalization : Skipped words 20V
+2025-01-04 18:29:13,085 : INFO : test_Capitalization : Skipped words 24V
+2025-01-04 18:29:13,088 : INFO : test_Capitalization : Skipped words 18V
+2025-01-04 18:29:13,090 : INFO : test_Capitalization : Skipped words 12V
+2025-01-04 18:29:13,097 : INFO : test_PriceFormat : $14.15
+2025-01-04 18:29:13,102 : INFO : test_PriceFormat : $12.01
+2025-01-04 18:29:13,107 : INFO : test_PriceFormat : $48.41
+2025-01-04 18:29:13,113 : INFO : test_PriceFormat : $14.24
+2025-01-04 18:29:13,117 : INFO : test_PriceFormat : $9.17
+2025-01-04 18:29:13,122 : INFO : test_PriceFormat : $13.41
+2025-01-04 18:29:13,127 : INFO : test_PriceFormat : $12.58
+2025-01-04 18:29:13,132 : INFO : test_PriceFormat : $11.48
+2025-01-04 18:29:13,137 : INFO : test_PriceFormat : $11.14
+2025-01-04 18:29:13,142 : INFO : test_PriceFormat : $17.75
+2025-01-04 18:29:13,147 : INFO : test_PriceFormat : $20.14
+2025-01-04 18:29:13,152 : INFO : test_PriceFormat : $18.63
+2025-01-04 18:29:13,156 : INFO : test_PriceFormat : $12.18
+2025-01-04 18:29:13,162 : INFO : test_PriceFormat : $20.33
+2025-01-04 18:29:13,166 : INFO : test_PriceFormat : $14.14
+2025-01-04 18:29:13,171 : INFO : test_PriceFormat : $38.51
+2025-01-04 18:29:13,176 : INFO : test_PriceFormat : $4.92
+2025-01-04 18:29:13,180 : INFO : test_PriceFormat : $13.96
+2025-01-04 18:29:13,185 : INFO : test_PriceFormat : $58.48
+2025-01-04 18:29:13,190 : INFO : test_PriceFormat : $73.59
+2025-01-04 18:29:13,195 : INFO : test_PriceFormat : $80.19
+2025-01-04 18:29:13,200 : INFO : test_PriceFormat : $100.79
+2025-01-04 18:29:13,205 : INFO : test_PriceFormat : $125.23
+2025-01-04 18:29:13,210 : INFO : test_PriceFormat : $66.54
+2025-01-04 18:29:13,214 : INFO : test_PriceFormat : $119.24
+2025-01-04 18:29:13,219 : INFO : test_PriceFormat : $46.50
+2025-01-04 18:37:49,206 : INFO : test_TotalNumberOfTools : Total number of tools: 26
+2025-01-04 18:37:49,235 : INFO : test_Capitalization : Skipped words with
+2025-01-04 18:37:49,248 : INFO : test_Capitalization : Skipped words with
+2025-01-04 18:37:49,259 : INFO : test_Capitalization : Skipped words (Set)
+2025-01-04 18:37:49,277 : INFO : test_Capitalization : Skipped words 20V
+2025-01-04 18:37:49,279 : INFO : test_Capitalization : Skipped words 24V
+2025-01-04 18:37:49,282 : INFO : test_Capitalization : Skipped words 18V
+2025-01-04 18:37:49,285 : INFO : test_Capitalization : Skipped words 12V
+2025-01-04 18:37:49,291 : DEBUG : test_PriceFormat : $14.15
+2025-01-04 18:37:49,296 : DEBUG : test_PriceFormat : $12.01
+2025-01-04 18:37:49,302 : DEBUG : test_PriceFormat : $48.41
+2025-01-04 18:37:49,307 : DEBUG : test_PriceFormat : $14.24
+2025-01-04 18:37:49,312 : DEBUG : test_PriceFormat : $9.17
+2025-01-04 18:37:49,317 : DEBUG : test_PriceFormat : $13.41
+2025-01-04 18:37:49,322 : DEBUG : test_PriceFormat : $12.58
+2025-01-04 18:37:49,327 : DEBUG : test_PriceFormat : $11.48
+2025-01-04 18:37:49,333 : DEBUG : test_PriceFormat : $11.14
+2025-01-04 18:37:49,338 : DEBUG : test_PriceFormat : $17.75
+2025-01-04 18:37:49,342 : DEBUG : test_PriceFormat : $20.14
+2025-01-04 18:37:49,348 : DEBUG : test_PriceFormat : $18.63
+2025-01-04 18:37:49,353 : DEBUG : test_PriceFormat : $12.18
+2025-01-04 18:37:49,358 : DEBUG : test_PriceFormat : $20.33
+2025-01-04 18:37:49,362 : DEBUG : test_PriceFormat : $14.14
+2025-01-04 18:37:49,368 : DEBUG : test_PriceFormat : $38.51
+2025-01-04 18:37:49,372 : DEBUG : test_PriceFormat : $4.92
+2025-01-04 18:37:49,377 : DEBUG : test_PriceFormat : $13.96
+2025-01-04 18:37:49,382 : DEBUG : test_PriceFormat : $58.48
+2025-01-04 18:37:49,387 : DEBUG : test_PriceFormat : $73.59
+2025-01-04 18:37:49,392 : DEBUG : test_PriceFormat : $80.19
+2025-01-04 18:37:49,397 : DEBUG : test_PriceFormat : $100.79
+2025-01-04 18:37:49,402 : DEBUG : test_PriceFormat : $125.23
+2025-01-04 18:37:49,406 : DEBUG : test_PriceFormat : $66.54
+2025-01-04 18:37:49,411 : DEBUG : test_PriceFormat : $119.24
+2025-01-04 18:37:49,415 : DEBUG : test_PriceFormat : $46.50
+2025-01-04 18:38:10,758 : INFO : test_TotalNumberOfTools : Total number of tools: 26
+2025-01-04 18:38:10,784 : INFO : test_Capitalization : Skipped words with
+2025-01-04 18:38:10,797 : INFO : test_Capitalization : Skipped words with
+2025-01-04 18:38:10,809 : INFO : test_Capitalization : Skipped words (Set)
+2025-01-04 18:38:10,825 : INFO : test_Capitalization : Skipped words 20V
+2025-01-04 18:38:10,828 : INFO : test_Capitalization : Skipped words 24V
+2025-01-04 18:38:10,830 : INFO : test_Capitalization : Skipped words 18V
+2025-01-04 18:38:10,833 : INFO : test_Capitalization : Skipped words 12V
+2025-01-04 18:38:10,838 : DEBUG : test_PriceFormat : $14.15
+2025-01-04 18:38:10,844 : DEBUG : test_PriceFormat : $12.01
+2025-01-04 18:38:10,850 : DEBUG : test_PriceFormat : $48.41
+2025-01-04 18:38:10,854 : DEBUG : test_PriceFormat : $14.24
+2025-01-04 18:38:10,859 : DEBUG : test_PriceFormat : $9.17
+2025-01-04 18:38:10,863 : DEBUG : test_PriceFormat : $13.41
+2025-01-04 18:38:10,868 : DEBUG : test_PriceFormat : $12.58
+2025-01-04 18:38:10,873 : DEBUG : test_PriceFormat : $11.48
+2025-01-04 18:38:10,878 : DEBUG : test_PriceFormat : $11.14
+2025-01-04 18:38:10,882 : DEBUG : test_PriceFormat : $17.75
+2025-01-04 18:38:10,887 : DEBUG : test_PriceFormat : $20.14
+2025-01-04 18:38:10,892 : DEBUG : test_PriceFormat : $18.63
+2025-01-04 18:38:10,896 : DEBUG : test_PriceFormat : $12.18
+2025-01-04 18:38:10,901 : DEBUG : test_PriceFormat : $20.33
+2025-01-04 18:38:10,905 : DEBUG : test_PriceFormat : $14.14
+2025-01-04 18:38:10,910 : DEBUG : test_PriceFormat : $38.51
+2025-01-04 18:38:10,914 : DEBUG : test_PriceFormat : $4.92
+2025-01-04 18:38:10,919 : DEBUG : test_PriceFormat : $13.96
+2025-01-04 18:38:10,924 : DEBUG : test_PriceFormat : $58.48
+2025-01-04 18:38:10,928 : DEBUG : test_PriceFormat : $73.59
+2025-01-04 18:38:10,933 : DEBUG : test_PriceFormat : $80.19
+2025-01-04 18:38:10,938 : DEBUG : test_PriceFormat : $100.79
+2025-01-04 18:38:10,942 : DEBUG : test_PriceFormat : $125.23
+2025-01-04 18:38:10,947 : DEBUG : test_PriceFormat : $66.54
+2025-01-04 18:38:10,952 : DEBUG : test_PriceFormat : $119.24
+2025-01-04 18:38:10,956 : DEBUG : test_PriceFormat : $46.50
+2025-01-04 18:38:27,825 : INFO : test_TotalNumberOfTools : Total number of tools: 26
+2025-01-04 18:38:27,851 : INFO : test_Capitalization : Skipped words with
+2025-01-04 18:38:27,865 : INFO : test_Capitalization : Skipped words with
+2025-01-04 18:38:27,876 : INFO : test_Capitalization : Skipped words (Set)
+2025-01-04 18:38:27,892 : INFO : test_Capitalization : Skipped words 20V
+2025-01-04 18:38:27,895 : INFO : test_Capitalization : Skipped words 24V
+2025-01-04 18:38:27,897 : INFO : test_Capitalization : Skipped words 18V
+2025-01-04 18:38:27,899 : INFO : test_Capitalization : Skipped words 12V
+2025-01-04 18:38:27,906 : DEBUG : test_PriceFormat : $14.15
+2025-01-04 18:38:27,910 : DEBUG : test_PriceFormat : $12.01
+2025-01-04 18:38:27,916 : DEBUG : test_PriceFormat : $48.41
+2025-01-04 18:38:27,921 : DEBUG : test_PriceFormat : $14.24
+2025-01-04 18:38:27,926 : DEBUG : test_PriceFormat : $9.17
+2025-01-04 18:38:27,931 : DEBUG : test_PriceFormat : $13.41
+2025-01-04 18:38:27,936 : DEBUG : test_PriceFormat : $12.58
+2025-01-04 18:38:27,941 : DEBUG : test_PriceFormat : $11.48
+2025-01-04 18:38:27,946 : DEBUG : test_PriceFormat : $11.14
+2025-01-04 18:38:27,951 : DEBUG : test_PriceFormat : $17.75
+2025-01-04 18:38:27,955 : DEBUG : test_PriceFormat : $20.14
+2025-01-04 18:38:27,960 : DEBUG : test_PriceFormat : $18.63
+2025-01-04 18:38:27,966 : DEBUG : test_PriceFormat : $12.18
+2025-01-04 18:38:27,970 : DEBUG : test_PriceFormat : $20.33
+2025-01-04 18:38:27,975 : DEBUG : test_PriceFormat : $14.14
+2025-01-04 18:38:27,979 : DEBUG : test_PriceFormat : $38.51
+2025-01-04 18:38:27,984 : DEBUG : test_PriceFormat : $4.92
+2025-01-04 18:38:27,989 : DEBUG : test_PriceFormat : $13.96
+2025-01-04 18:38:27,994 : DEBUG : test_PriceFormat : $58.48
+2025-01-04 18:38:27,998 : DEBUG : test_PriceFormat : $73.59
+2025-01-04 18:38:28,004 : DEBUG : test_PriceFormat : $80.19
+2025-01-04 18:38:28,008 : DEBUG : test_PriceFormat : $100.79
+2025-01-04 18:38:28,013 : DEBUG : test_PriceFormat : $125.23
+2025-01-04 18:38:28,018 : DEBUG : test_PriceFormat : $66.54
+2025-01-04 18:38:28,022 : DEBUG : test_PriceFormat : $119.24
+2025-01-04 18:38:28,027 : DEBUG : test_PriceFormat : $46.50
+2025-01-05 23:10:48,546 : INFO : test_PriceFormat : ['$14.15', '$12.01', '$48.41', '$14.24', '$9.17', '$13.41', '$12.58', '$11.48', '$11.14', '$17.75', '$20.14', '$18.63', '$12.18', '$20.33', '$14.14', '$38.51', '$4.92', '$13.96', '$58.48', '$73.59', '$80.19', '$100.79', '$125.23', '$66.54', '$119.24', '$46.50']
+2025-01-05 23:16:04,627 : INFO : test_ToolDetails : [<selenium.webdriver.remote.webelement.WebElement (session="2e418dc1824e820becfbf2cf217b6a9c", element="f.B9A46BA5B385BB5F4913A21FA7568F64.d.94A7F3439B33C9EA7E1C10528ACF76F8.e.11")>, '$12.01', '$12.01']
+2025-01-05 23:44:49,921 : INFO : test_TotalNumberOfTools : Total number of tools: 26
+2025-01-05 23:44:49,960 : DEBUG : test_Capitalization : Skipped words with
+2025-01-05 23:44:49,976 : DEBUG : test_Capitalization : Skipped words with
+2025-01-05 23:44:49,992 : DEBUG : test_Capitalization : Skipped words (Set)
+2025-01-05 23:44:50,013 : DEBUG : test_Capitalization : Skipped words 20V
+2025-01-05 23:44:50,016 : DEBUG : test_Capitalization : Skipped words 24V
+2025-01-05 23:44:50,019 : DEBUG : test_Capitalization : Skipped words 18V
+2025-01-05 23:44:50,022 : DEBUG : test_Capitalization : Skipped words 12V
+2025-01-05 23:44:50,197 : INFO : test_PriceFormat : ['$14.15', '$12.01', '$48.41', '$14.24', '$9.17', '$13.41', '$12.58', '$11.48', '$11.14', '$17.75', '$20.14', '$18.63', '$12.18', '$20.33', '$14.14', '$38.51', '$4.92', '$13.96', '$58.48', '$73.59', '$80.19', '$100.79', '$125.23', '$66.54', '$119.24', '$46.50']
+2025-01-06 00:21:41,086 : INFO : test_ToolDetails : Pliers
+2025-01-06 00:25:27,314 : INFO : test_ToolDetails : Pliers12.01
+2025-01-06 00:34:03,856 : INFO : test_ToolDetails : Combination Pliers 14.15
+2025-01-06 00:35:42,385 : INFO : test_ToolDetails : Combination Pliers 14.15
+2025-01-06 00:35:43,533 : INFO : test_ToolDetails : Pliers 12.01
+2025-01-06 00:35:45,249 : INFO : test_ToolDetails : Bolt Cutters 48.41
+2025-01-06 00:35:46,429 : INFO : test_ToolDetails : Long Nose Pliers 14.24
+2025-01-06 00:35:48,316 : INFO : test_ToolDetails : Slip Joint Pliers 9.17
+2025-01-06 00:35:49,453 : INFO : test_ToolDetails : Claw Hammer with Shock Reduction Grip 13.41
+2025-01-06 00:35:51,649 : INFO : test_ToolDetails : Hammer 12.58
+2025-01-06 00:35:53,829 : INFO : test_ToolDetails : Claw Hammer 11.48
+2025-01-06 00:35:55,524 : INFO : test_ToolDetails : Thor Hammer 11.14
+2025-01-06 00:35:57,215 : INFO : test_ToolDetails : Sledgehammer 17.75
+2025-01-06 00:35:59,009 : INFO : test_ToolDetails : Claw Hammer with Fiberglass Handle 20.14
+2025-01-06 00:36:00,815 : INFO : test_ToolDetails : Court Hammer 18.63
+2025-01-06 00:36:02,506 : INFO : test_ToolDetails : Wood Saw 12.18
+2025-01-06 00:36:03,694 : INFO : test_ToolDetails : Adjustable Wrench 20.33
+2025-01-06 00:36:05,381 : INFO : test_ToolDetails : Angled Spanner 14.14
+2025-01-06 00:36:06,566 : INFO : test_ToolDetails : Open-end Spanners (Set) 38.51
+2025-01-06 00:36:07,756 : INFO : test_ToolDetails : Phillips Screwdriver 4.92
+2025-01-06 00:36:09,982 : INFO : test_ToolDetails : Mini Screwdriver 13.96
+2025-01-06 00:36:11,672 : INFO : test_ToolDetails : Sheet Sander 58.48
+2025-01-06 00:36:12,868 : INFO : test_ToolDetails : Belt Sander 73.59
+2025-01-06 00:36:14,067 : INFO : test_ToolDetails : Circular Saw 80.19
+2025-01-06 00:36:15,771 : INFO : test_ToolDetails : Random Orbit Sander 100.79
+2025-01-06 00:36:17,470 : INFO : test_ToolDetails : Cordless Drill 20V 125.23
+2025-01-06 00:36:19,160 : INFO : test_ToolDetails : Cordless Drill 24V 66.54
+2025-01-06 00:36:20,336 : INFO : test_ToolDetails : Cordless Drill 18V 119.24
+2025-01-06 00:36:22,046 : INFO : test_ToolDetails : Cordless Drill 12V 46.50
+2025-01-06 23:15:27,541 : INFO : test_HeadingText : Category: Hand Tools
+2025-01-06 23:24:54,594 : INFO : test_HeadingText : Category: Hand Tools
+2025-01-06 23:24:55,193 : INFO : test_HeadingText : Category: Power Tools
+2025-01-06 23:24:55,193 : INFO : test_HeadingText : Category: Power Tools
+2025-01-06 23:26:11,481 : INFO : test_HeadingText : Category: Hand Tools
+2025-01-06 23:26:12,091 : INFO : test_HeadingText : Category: Power Tools
+2025-01-06 23:26:12,091 : INFO : test_HeadingText : Category: Power Tools
+2025-01-06 23:51:13,760 : INFO : test_ValidTools : []
+2025-01-06 23:53:14,853 : INFO : test_ValidTools : []
+2025-01-06 23:55:33,760 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-06 23:57:15,658 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-06 23:57:59,865 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-06 23:58:24,324 : INFO : test_ValidTools : ['Sheet Sander\n$58.48', 'Belt Sander\n$73.59', 'Random Orbit Sander\n$100.79', 'Circular Saw\n$80.19', 'Cordless Drill 20V\n$125.23', 'Cordless Drill 24V\n$66.54', 'Cordless Drill 18V\n$119.24', 'Cordless Drill 12V\n$46.5']
+2025-01-06 23:58:58,056 : INFO : test_ValidTools : ['Sheet Sander\n$58.48', 'Belt Sander\n$73.59', 'Random Orbit Sander\n$100.79', 'Circular Saw\n$80.19', 'Cordless Drill 20V\n$125.23', 'Cordless Drill 24V\n$66.54', 'Cordless Drill 18V\n$119.24', 'Cordless Drill 12V\n$46.5']
+2025-01-07 00:03:07,282 : INFO : test_ValidTools : ['Sheet Sander\n$58.48', 'Belt Sander\n$73.59', 'Random Orbit Sander\n$100.79', 'Circular Saw\n$80.19', 'Cordless Drill 20V\n$125.23', 'Cordless Drill 24V\n$66.54', 'Cordless Drill 18V\n$119.24', 'Cordless Drill 12V\n$46.5']
+2025-01-07 00:03:08,465 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-07 00:03:08,465 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-07 20:47:39,526 : INFO : test_ToolCategoryCheck : Combination Pliers Category:Pliers
+2025-01-07 20:47:41,028 : INFO : test_ToolCategoryCheck : Pliers Category:Pliers
+2025-01-07 20:47:42,778 : INFO : test_ToolCategoryCheck : Bolt Cutters Category:Pliers
+2025-01-07 20:47:44,011 : INFO : test_ToolCategoryCheck : Long Nose Pliers Category:Pliers
+2025-01-07 20:47:45,235 : INFO : test_ToolCategoryCheck : Slip Joint Pliers Category:Pliers
+2025-01-07 20:47:46,439 : INFO : test_ToolCategoryCheck : Claw Hammer with Shock Reduction Grip Category:Hammer
+2025-01-07 20:47:47,607 : INFO : test_ToolCategoryCheck : Hammer Category:Hammer
+2025-01-07 20:47:48,772 : INFO : test_ToolCategoryCheck : Claw Hammer Category:Hammer
+2025-01-07 20:47:49,972 : INFO : test_ToolCategoryCheck : Thor Hammer Category:Hammer
+2025-01-07 20:47:51,185 : INFO : test_ToolCategoryCheck : Sledgehammer Category:Hammer
+2025-01-07 20:47:52,401 : INFO : test_ToolCategoryCheck : Claw Hammer with Fiberglass Handle Category:Hammer
+2025-01-07 20:47:53,609 : INFO : test_ToolCategoryCheck : Court Hammer Category:Hammer
+2025-01-07 20:47:54,817 : INFO : test_ToolCategoryCheck : Wood Saw Category:Hand Saw
+2025-01-07 20:47:56,037 : INFO : test_ToolCategoryCheck : Adjustable Wrench Category:Wrench
+2025-01-07 20:47:57,251 : INFO : test_ToolCategoryCheck : Angled Spanner Category:Wrench
+2025-01-07 20:47:58,459 : INFO : test_ToolCategoryCheck : Open-end Spanners (Set) Category:Wrench
+2025-01-07 20:47:59,663 : INFO : test_ToolCategoryCheck : Phillips Screwdriver Category:Screwdriver
+2025-01-07 20:48:00,857 : INFO : test_ToolCategoryCheck : Mini Screwdriver Category:Screwdriver
+2025-01-07 20:58:59,470 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 20:59:00,652 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 20:59:01,862 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 20:59:03,078 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 20:59:04,293 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 20:59:05,455 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 20:59:06,612 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 20:59:07,812 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 20:59:09,017 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 20:59:10,214 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 20:59:11,928 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 20:59:13,629 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 20:59:14,802 : INFO : test_CategoryCheckHandTools : Category:Hand Saw
+2025-01-07 20:59:15,994 : INFO : test_CategoryCheckHandTools : Category:Wrench
+2025-01-07 20:59:17,715 : INFO : test_CategoryCheckHandTools : Category:Wrench
+2025-01-07 20:59:18,922 : INFO : test_CategoryCheckHandTools : Category:Wrench
+2025-01-07 20:59:20,129 : INFO : test_CategoryCheckHandTools : Category:Screwdriver
+2025-01-07 20:59:21,316 : INFO : test_CategoryCheckHandTools : Category:Screwdriver
+2025-01-07 21:01:18,745 : INFO : test_CategoryCheckPowerTools : Category:Sander
+2025-01-07 21:01:19,923 : INFO : test_CategoryCheckPowerTools : Category:Sander
+2025-01-07 21:01:21,099 : INFO : test_CategoryCheckPowerTools : Category:Saw
+2025-01-07 21:01:22,307 : INFO : test_CategoryCheckPowerTools : Category:Sander
+2025-01-07 21:01:23,511 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 21:01:24,715 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 21:01:25,925 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 21:01:27,128 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 21:02:17,571 : INFO : test_TotalNumberOfTools : Total number of tools: 26
+2025-01-07 21:02:17,634 : DEBUG : test_Capitalization : Skipped words with
+2025-01-07 21:02:17,652 : DEBUG : test_Capitalization : Skipped words with
+2025-01-07 21:02:17,669 : DEBUG : test_Capitalization : Skipped words (Set)
+2025-01-07 21:02:17,691 : DEBUG : test_Capitalization : Skipped words 20V
+2025-01-07 21:02:17,694 : DEBUG : test_Capitalization : Skipped words 24V
+2025-01-07 21:02:17,698 : DEBUG : test_Capitalization : Skipped words 18V
+2025-01-07 21:02:17,701 : DEBUG : test_Capitalization : Skipped words 12V
+2025-01-07 21:02:17,880 : INFO : test_PriceFormat : ['$14.15', '$12.01', '$48.41', '$14.24', '$9.17', '$13.41', '$12.58', '$11.48', '$11.14', '$17.75', '$20.14', '$18.63', '$12.18', '$20.33', '$14.14', '$38.51', '$4.92', '$13.96', '$58.48', '$73.59', '$80.19', '$100.79', '$125.23', '$66.54', '$119.24', '$46.50']
+2025-01-07 21:02:18,483 : INFO : test_ToolDetails : Combination Pliers 14.15
+2025-01-07 21:02:20,669 : INFO : test_ToolDetails : Pliers 12.01
+2025-01-07 21:02:22,876 : INFO : test_ToolDetails : Bolt Cutters 48.41
+2025-01-07 21:02:24,545 : INFO : test_ToolDetails : Long Nose Pliers 14.24
+2025-01-07 21:02:26,213 : INFO : test_ToolDetails : Slip Joint Pliers 9.17
+2025-01-07 21:02:28,421 : INFO : test_ToolDetails : Claw Hammer with Shock Reduction Grip 13.41
+2025-01-07 21:02:30,642 : INFO : test_ToolDetails : Hammer 12.58
+2025-01-07 21:02:32,855 : INFO : test_ToolDetails : Claw Hammer 11.48
+2025-01-07 21:02:34,032 : INFO : test_ToolDetails : Thor Hammer 11.14
+2025-01-07 21:02:35,214 : INFO : test_ToolDetails : Sledgehammer 17.75
+2025-01-07 21:02:36,403 : INFO : test_ToolDetails : Claw Hammer with Fiberglass Handle 20.14
+2025-01-07 21:02:37,584 : INFO : test_ToolDetails : Court Hammer 18.63
+2025-01-07 21:02:39,313 : INFO : test_ToolDetails : Wood Saw 12.18
+2025-01-07 21:02:40,515 : INFO : test_ToolDetails : Adjustable Wrench 20.33
+2025-01-07 21:02:41,714 : INFO : test_ToolDetails : Angled Spanner 14.14
+2025-01-07 21:02:42,891 : INFO : test_ToolDetails : Open-end Spanners (Set) 38.51
+2025-01-07 21:02:44,065 : INFO : test_ToolDetails : Phillips Screwdriver 4.92
+2025-01-07 21:02:45,252 : INFO : test_ToolDetails : Mini Screwdriver 13.96
+2025-01-07 21:02:46,433 : INFO : test_ToolDetails : Sheet Sander 58.48
+2025-01-07 21:02:47,617 : INFO : test_ToolDetails : Belt Sander 73.59
+2025-01-07 21:02:48,782 : INFO : test_ToolDetails : Circular Saw 80.19
+2025-01-07 21:02:50,495 : INFO : test_ToolDetails : Random Orbit Sander 100.79
+2025-01-07 21:02:51,703 : INFO : test_ToolDetails : Cordless Drill 20V 125.23
+2025-01-07 21:02:52,903 : INFO : test_ToolDetails : Cordless Drill 24V 66.54
+2025-01-07 21:02:54,085 : INFO : test_ToolDetails : Cordless Drill 18V 119.24
+2025-01-07 21:02:55,306 : INFO : test_ToolDetails : Cordless Drill 12V 46.50
+2025-01-07 21:02:59,947 : INFO : test_HeadingText : Category: Hand Tools
+2025-01-07 21:03:00,543 : INFO : test_HeadingText : Category: Power Tools
+2025-01-07 21:03:00,543 : INFO : test_HeadingText : Category: Power Tools
+2025-01-07 21:03:01,792 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-07 21:03:01,792 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-07 21:03:02,419 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:03:03,627 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:03:04,841 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:03:06,061 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:03:07,263 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:03:08,421 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:03:09,596 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:03:10,800 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:03:12,005 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:03:13,732 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:03:14,939 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:03:16,140 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:03:17,345 : INFO : test_CategoryCheckHandTools : Category:Hand Saw
+2025-01-07 21:03:18,555 : INFO : test_CategoryCheckHandTools : Category:Wrench
+2025-01-07 21:03:19,754 : INFO : test_CategoryCheckHandTools : Category:Wrench
+2025-01-07 21:03:20,942 : INFO : test_CategoryCheckHandTools : Category:Wrench
+2025-01-07 21:03:22,177 : INFO : test_CategoryCheckHandTools : Category:Screwdriver
+2025-01-07 21:03:23,412 : INFO : test_CategoryCheckHandTools : Category:Screwdriver
+2025-01-07 21:06:54,148 : INFO : test_TotalNumberOfTools : Total number of tools: 26
+2025-01-07 21:06:54,191 : DEBUG : test_Capitalization : Skipped words with
+2025-01-07 21:06:54,208 : DEBUG : test_Capitalization : Skipped words with
+2025-01-07 21:06:54,222 : DEBUG : test_Capitalization : Skipped words (Set)
+2025-01-07 21:06:54,239 : DEBUG : test_Capitalization : Skipped words 20V
+2025-01-07 21:06:54,242 : DEBUG : test_Capitalization : Skipped words 24V
+2025-01-07 21:06:54,245 : DEBUG : test_Capitalization : Skipped words 18V
+2025-01-07 21:06:54,247 : DEBUG : test_Capitalization : Skipped words 12V
+2025-01-07 21:06:54,380 : INFO : test_PriceFormat : ['$14.15', '$12.01', '$48.41', '$14.24', '$9.17', '$13.41', '$12.58', '$11.48', '$11.14', '$17.75', '$20.14', '$18.63', '$12.18', '$20.33', '$14.14', '$38.51', '$4.92', '$13.96', '$58.48', '$73.59', '$80.19', '$100.79', '$125.23', '$66.54', '$119.24', '$46.50']
+2025-01-07 21:06:55,150 : INFO : test_ToolDetails : Combination Pliers 14.15
+2025-01-07 21:06:56,442 : INFO : test_ToolDetails : Pliers 12.01
+2025-01-07 21:06:57,721 : INFO : test_ToolDetails : Bolt Cutters 48.41
+2025-01-07 21:06:59,531 : INFO : test_ToolDetails : Long Nose Pliers 14.24
+2025-01-07 21:07:00,829 : INFO : test_ToolDetails : Slip Joint Pliers 9.17
+2025-01-07 21:07:02,132 : INFO : test_ToolDetails : Claw Hammer with Shock Reduction Grip 13.41
+2025-01-07 21:07:03,427 : INFO : test_ToolDetails : Hammer 12.58
+2025-01-07 21:07:04,734 : INFO : test_ToolDetails : Claw Hammer 11.48
+2025-01-07 21:07:06,031 : INFO : test_ToolDetails : Thor Hammer 11.14
+2025-01-07 21:07:07,330 : INFO : test_ToolDetails : Sledgehammer 17.75
+2025-01-07 21:07:08,635 : INFO : test_ToolDetails : Claw Hammer with Fiberglass Handle 20.14
+2025-01-07 21:07:09,938 : INFO : test_ToolDetails : Court Hammer 18.63
+2025-01-07 21:07:11,236 : INFO : test_ToolDetails : Wood Saw 12.18
+2025-01-07 21:07:13,058 : INFO : test_ToolDetails : Adjustable Wrench 20.33
+2025-01-07 21:07:14,348 : INFO : test_ToolDetails : Angled Spanner 14.14
+2025-01-07 21:07:15,648 : INFO : test_ToolDetails : Open-end Spanners (Set) 38.51
+2025-01-07 21:07:16,950 : INFO : test_ToolDetails : Phillips Screwdriver 4.92
+2025-01-07 21:07:18,248 : INFO : test_ToolDetails : Mini Screwdriver 13.96
+2025-01-07 21:07:19,549 : INFO : test_ToolDetails : Sheet Sander 58.48
+2025-01-07 21:07:20,844 : INFO : test_ToolDetails : Belt Sander 73.59
+2025-01-07 21:07:22,146 : INFO : test_ToolDetails : Circular Saw 80.19
+2025-01-07 21:07:23,447 : INFO : test_ToolDetails : Random Orbit Sander 100.79
+2025-01-07 21:07:24,748 : INFO : test_ToolDetails : Cordless Drill 20V 125.23
+2025-01-07 21:07:26,557 : INFO : test_ToolDetails : Cordless Drill 24V 66.54
+2025-01-07 21:07:27,856 : INFO : test_ToolDetails : Cordless Drill 18V 119.24
+2025-01-07 21:07:29,151 : INFO : test_ToolDetails : Cordless Drill 12V 46.50
+2025-01-07 21:07:35,569 : INFO : test_HeadingText : Category: Hand Tools
+2025-01-07 21:07:36,575 : INFO : test_HeadingText : Category: Power Tools
+2025-01-07 21:07:36,575 : INFO : test_HeadingText : Category: Power Tools
+2025-01-07 21:07:38,108 : INFO : test_ValidTools : ['Sheet Sander\n$58.48', 'Belt Sander\n$73.59', 'Random Orbit Sander\n$100.79', 'Circular Saw\n$80.19', 'Cordless Drill 20V\n$125.23', 'Cordless Drill 24V\n$66.54', 'Cordless Drill 18V\n$119.24', 'Cordless Drill 12V\n$46.5']
+2025-01-07 21:07:39,687 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-07 21:07:39,687 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-07 21:07:40,911 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:07:42,657 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:07:44,405 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:07:46,133 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:07:49,406 : INFO : test_CategoryCheckPowerTools : Category:Sander
+2025-01-07 21:07:51,149 : INFO : test_CategoryCheckPowerTools : Category:Sander
+2025-01-07 21:07:52,891 : INFO : test_CategoryCheckPowerTools : Category:Saw
+2025-01-07 21:07:54,651 : INFO : test_CategoryCheckPowerTools : Category:Sander
+2025-01-07 21:07:56,403 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 21:07:58,164 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 21:07:59,917 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 21:08:01,640 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 21:08:16,155 : INFO : test_TotalNumberOfTools : Total number of tools: 26
+2025-01-07 21:08:16,206 : DEBUG : test_Capitalization : Skipped words with
+2025-01-07 21:08:16,224 : DEBUG : test_Capitalization : Skipped words with
+2025-01-07 21:08:16,240 : DEBUG : test_Capitalization : Skipped words (Set)
+2025-01-07 21:08:16,263 : DEBUG : test_Capitalization : Skipped words 20V
+2025-01-07 21:08:16,266 : DEBUG : test_Capitalization : Skipped words 24V
+2025-01-07 21:08:16,270 : DEBUG : test_Capitalization : Skipped words 18V
+2025-01-07 21:08:16,273 : DEBUG : test_Capitalization : Skipped words 12V
+2025-01-07 21:08:16,451 : INFO : test_PriceFormat : ['$14.15', '$12.01', '$48.41', '$14.24', '$9.17', '$13.41', '$12.58', '$11.48', '$11.14', '$17.75', '$20.14', '$18.63', '$12.18', '$20.33', '$14.14', '$38.51', '$4.92', '$13.96', '$58.48', '$73.59', '$80.19', '$100.79', '$125.23', '$66.54', '$119.24', '$46.50']
+2025-01-07 21:08:17,585 : INFO : test_ToolDetails : Combination Pliers 14.15
+2025-01-07 21:08:18,745 : INFO : test_ToolDetails : Pliers 12.01
+2025-01-07 21:08:19,915 : INFO : test_ToolDetails : Bolt Cutters 48.41
+2025-01-07 21:08:21,621 : INFO : test_ToolDetails : Long Nose Pliers 14.24
+2025-01-07 21:08:22,844 : INFO : test_ToolDetails : Slip Joint Pliers 9.17
+2025-01-07 21:08:24,017 : INFO : test_ToolDetails : Claw Hammer with Shock Reduction Grip 13.41
+2025-01-07 21:08:25,170 : INFO : test_ToolDetails : Hammer 12.58
+2025-01-07 21:08:26,352 : INFO : test_ToolDetails : Claw Hammer 11.48
+2025-01-07 21:08:27,548 : INFO : test_ToolDetails : Thor Hammer 11.14
+2025-01-07 21:08:28,750 : INFO : test_ToolDetails : Sledgehammer 17.75
+2025-01-07 21:08:30,093 : INFO : test_ToolDetails : Claw Hammer with Fiberglass Handle 20.14
+2025-01-07 21:08:31,812 : INFO : test_ToolDetails : Court Hammer 18.63
+2025-01-07 21:08:33,008 : INFO : test_ToolDetails : Wood Saw 12.18
+2025-01-07 21:08:34,213 : INFO : test_ToolDetails : Adjustable Wrench 20.33
+2025-01-07 21:08:35,411 : INFO : test_ToolDetails : Angled Spanner 14.14
+2025-01-07 21:08:36,568 : INFO : test_ToolDetails : Open-end Spanners (Set) 38.51
+2025-01-07 21:08:37,775 : INFO : test_ToolDetails : Phillips Screwdriver 4.92
+2025-01-07 21:08:38,962 : INFO : test_ToolDetails : Mini Screwdriver 13.96
+2025-01-07 21:08:40,159 : INFO : test_ToolDetails : Sheet Sander 58.48
+2025-01-07 21:08:41,367 : INFO : test_ToolDetails : Belt Sander 73.59
+2025-01-07 21:08:42,579 : INFO : test_ToolDetails : Circular Saw 80.19
+2025-01-07 21:08:43,756 : INFO : test_ToolDetails : Random Orbit Sander 100.79
+2025-01-07 21:08:44,968 : INFO : test_ToolDetails : Cordless Drill 20V 125.23
+2025-01-07 21:08:46,163 : INFO : test_ToolDetails : Cordless Drill 24V 66.54
+2025-01-07 21:08:47,354 : INFO : test_ToolDetails : Cordless Drill 18V 119.24
+2025-01-07 21:08:48,550 : INFO : test_ToolDetails : Cordless Drill 12V 46.50
+2025-01-07 21:08:52,597 : INFO : test_HeadingText : Category: Hand Tools
+2025-01-07 21:08:53,186 : INFO : test_HeadingText : Category: Power Tools
+2025-01-07 21:08:53,186 : INFO : test_HeadingText : Category: Power Tools
+2025-01-07 21:08:54,326 : INFO : test_ValidTools : ['Sheet Sander\n$58.48', 'Belt Sander\n$73.59', 'Random Orbit Sander\n$100.79', 'Circular Saw\n$80.19', 'Cordless Drill 20V\n$125.23', 'Cordless Drill 24V\n$66.54', 'Cordless Drill 18V\n$119.24', 'Cordless Drill 12V\n$46.5']
+2025-01-07 21:08:55,502 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-07 21:08:55,502 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-07 21:08:56,706 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:08:58,445 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:08:59,661 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:09:00,829 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:09:01,988 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 21:09:03,168 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:09:04,379 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:09:06,100 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:09:07,324 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:09:09,036 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:09:10,245 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:09:11,463 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 21:09:12,680 : INFO : test_CategoryCheckHandTools : Category:Hand Saw
+2025-01-07 21:09:13,891 : INFO : test_CategoryCheckHandTools : Category:Wrench
+2025-01-07 21:09:15,106 : INFO : test_CategoryCheckHandTools : Category:Wrench
+2025-01-07 21:09:16,312 : INFO : test_CategoryCheckHandTools : Category:Wrench
+2025-01-07 21:09:17,544 : INFO : test_CategoryCheckHandTools : Category:Screwdriver
+2025-01-07 21:09:18,762 : INFO : test_CategoryCheckHandTools : Category:Screwdriver
+2025-01-07 21:09:21,074 : INFO : test_CategoryCheckPowerTools : Category:Sander
+2025-01-07 21:09:22,276 : INFO : test_CategoryCheckPowerTools : Category:Sander
+2025-01-07 21:09:23,478 : INFO : test_CategoryCheckPowerTools : Category:Saw
+2025-01-07 21:09:24,702 : INFO : test_CategoryCheckPowerTools : Category:Sander
+2025-01-07 21:09:25,919 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 21:09:27,130 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 21:09:28,352 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 21:09:29,569 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 21:21:21,262 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:30,202 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:31,319 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:32,439 : INFO : test_BrandNameCheck : Brand name 2
+2025-01-07 21:23:33,553 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:34,715 : INFO : test_BrandNameCheck : Brand name 2
+2025-01-07 21:23:35,867 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:36,998 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:38,128 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:39,286 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:40,449 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:41,605 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:42,767 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:43,922 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:45,078 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:46,236 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:47,393 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:48,556 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:49,703 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:50,855 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:52,022 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:53,692 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:54,853 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:56,017 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:57,179 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:58,325 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:23:59,486 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:26,275 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:27,901 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:29,041 : INFO : test_BrandNameCheck : Brand name 2
+2025-01-07 21:25:30,186 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:31,362 : INFO : test_BrandNameCheck : Brand name 2
+2025-01-07 21:25:32,503 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:33,644 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:34,735 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:35,866 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:37,029 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:38,161 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:39,336 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:40,503 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:41,660 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:42,812 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:43,978 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:45,119 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:46,276 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:47,444 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:48,619 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:49,792 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:50,969 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:52,132 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:53,294 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:54,445 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 21:25:56,102 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:11,107 : INFO : test_TotalNumberOfTools : Total number of tools: 26
+2025-01-07 22:06:11,158 : DEBUG : test_Capitalization : Skipped words with
+2025-01-07 22:06:11,175 : DEBUG : test_Capitalization : Skipped words with
+2025-01-07 22:06:11,191 : DEBUG : test_Capitalization : Skipped words (Set)
+2025-01-07 22:06:11,214 : DEBUG : test_Capitalization : Skipped words 20V
+2025-01-07 22:06:11,217 : DEBUG : test_Capitalization : Skipped words 24V
+2025-01-07 22:06:11,221 : DEBUG : test_Capitalization : Skipped words 18V
+2025-01-07 22:06:11,224 : DEBUG : test_Capitalization : Skipped words 12V
+2025-01-07 22:06:11,404 : INFO : test_PriceFormat : ['$14.15', '$12.01', '$48.41', '$14.24', '$9.17', '$13.41', '$12.58', '$11.48', '$11.14', '$17.75', '$20.14', '$18.63', '$12.18', '$20.33', '$14.14', '$38.51', '$4.92', '$13.96', '$58.48', '$73.59', '$80.19', '$100.79', '$125.23', '$66.54', '$119.24', '$46.50']
+2025-01-07 22:06:12,534 : INFO : test_ToolDetails : Combination Pliers 14.15
+2025-01-07 22:06:13,707 : INFO : test_ToolDetails : Pliers 12.01
+2025-01-07 22:06:14,875 : INFO : test_ToolDetails : Bolt Cutters 48.41
+2025-01-07 22:06:16,059 : INFO : test_ToolDetails : Long Nose Pliers 14.24
+2025-01-07 22:06:17,270 : INFO : test_ToolDetails : Slip Joint Pliers 9.17
+2025-01-07 22:06:18,467 : INFO : test_ToolDetails : Claw Hammer with Shock Reduction Grip 13.41
+2025-01-07 22:06:19,590 : INFO : test_ToolDetails : Hammer 12.58
+2025-01-07 22:06:20,759 : INFO : test_ToolDetails : Claw Hammer 11.48
+2025-01-07 22:06:21,964 : INFO : test_ToolDetails : Thor Hammer 11.14
+2025-01-07 22:06:23,159 : INFO : test_ToolDetails : Sledgehammer 17.75
+2025-01-07 22:06:24,358 : INFO : test_ToolDetails : Claw Hammer with Fiberglass Handle 20.14
+2025-01-07 22:06:25,551 : INFO : test_ToolDetails : Court Hammer 18.63
+2025-01-07 22:06:26,738 : INFO : test_ToolDetails : Wood Saw 12.18
+2025-01-07 22:06:27,933 : INFO : test_ToolDetails : Adjustable Wrench 20.33
+2025-01-07 22:06:29,123 : INFO : test_ToolDetails : Angled Spanner 14.14
+2025-01-07 22:06:30,316 : INFO : test_ToolDetails : Open-end Spanners (Set) 38.51
+2025-01-07 22:06:31,512 : INFO : test_ToolDetails : Phillips Screwdriver 4.92
+2025-01-07 22:06:32,710 : INFO : test_ToolDetails : Mini Screwdriver 13.96
+2025-01-07 22:06:33,891 : INFO : test_ToolDetails : Sheet Sander 58.48
+2025-01-07 22:06:35,090 : INFO : test_ToolDetails : Belt Sander 73.59
+2025-01-07 22:06:36,291 : INFO : test_ToolDetails : Circular Saw 80.19
+2025-01-07 22:06:37,497 : INFO : test_ToolDetails : Random Orbit Sander 100.79
+2025-01-07 22:06:38,693 : INFO : test_ToolDetails : Cordless Drill 20V 125.23
+2025-01-07 22:06:39,877 : INFO : test_ToolDetails : Cordless Drill 24V 66.54
+2025-01-07 22:06:41,063 : INFO : test_ToolDetails : Cordless Drill 18V 119.24
+2025-01-07 22:06:42,259 : INFO : test_ToolDetails : Cordless Drill 12V 46.50
+2025-01-07 22:06:43,430 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:44,557 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:45,686 : INFO : test_BrandNameCheck : Brand name 2
+2025-01-07 22:06:46,825 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:47,984 : INFO : test_BrandNameCheck : Brand name 2
+2025-01-07 22:06:49,151 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:50,288 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:51,426 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:52,593 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:53,753 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:54,909 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:56,075 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:57,234 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:58,386 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:06:59,529 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:07:00,679 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:07:01,843 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:07:02,990 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:07:04,140 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:07:05,297 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:07:06,463 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:07:07,626 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:07:08,786 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:07:09,916 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:07:11,043 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:07:12,685 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-07 22:07:16,938 : INFO : test_HeadingText : Category: Hand Tools
+2025-01-07 22:07:17,534 : INFO : test_HeadingText : Category: Power Tools
+2025-01-07 22:07:17,534 : INFO : test_HeadingText : Category: Power Tools
+2025-01-07 22:07:18,689 : INFO : test_ValidTools : ['Sheet Sander\n$58.48', 'Belt Sander\n$73.59', 'Random Orbit Sander\n$100.79', 'Circular Saw\n$80.19', 'Cordless Drill 20V\n$125.23', 'Cordless Drill 24V\n$66.54', 'Cordless Drill 18V\n$119.24', 'Cordless Drill 12V\n$46.5']
+2025-01-07 22:07:19,879 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-07 22:07:19,879 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-07 22:07:21,055 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 22:07:22,283 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 22:07:23,492 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 22:07:24,686 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 22:07:25,888 : INFO : test_CategoryCheckHandTools : Category:Pliers
+2025-01-07 22:07:27,106 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 22:07:28,327 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 22:07:29,546 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 22:07:30,753 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 22:07:32,491 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 22:07:33,700 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 22:07:34,904 : INFO : test_CategoryCheckHandTools : Category:Hammer
+2025-01-07 22:07:36,126 : INFO : test_CategoryCheckHandTools : Category:Hand Saw
+2025-01-07 22:07:37,335 : INFO : test_CategoryCheckHandTools : Category:Wrench
+2025-01-07 22:07:38,556 : INFO : test_CategoryCheckHandTools : Category:Wrench
+2025-01-07 22:07:39,772 : INFO : test_CategoryCheckHandTools : Category:Wrench
+2025-01-07 22:07:41,000 : INFO : test_CategoryCheckHandTools : Category:Screwdriver
+2025-01-07 22:07:42,218 : INFO : test_CategoryCheckHandTools : Category:Screwdriver
+2025-01-07 22:07:44,533 : INFO : test_CategoryCheckPowerTools : Category:Sander
+2025-01-07 22:07:45,738 : INFO : test_CategoryCheckPowerTools : Category:Sander
+2025-01-07 22:07:46,944 : INFO : test_CategoryCheckPowerTools : Category:Saw
+2025-01-07 22:07:48,116 : INFO : test_CategoryCheckPowerTools : Category:Sander
+2025-01-07 22:07:49,325 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 22:07:50,536 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 22:07:51,752 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-07 22:07:52,975 : INFO : test_CategoryCheckPowerTools : Category:Drill
+2025-01-08 21:47:18,602 : DEBUG : test_NameField : firstName: first, lastName: last
+2025-01-08 21:47:18,979 : DEBUG : test_NameField : firstName: last, lastName: first
+2025-01-08 21:47:18,979 : DEBUG : test_NameField : firstName: last, lastName: first
+2025-01-08 21:47:19,415 : DEBUG : test_NameField : firstName: Good, lastName: Bad
+2025-01-08 21:47:19,415 : DEBUG : test_NameField : firstName: Good, lastName: Bad
+2025-01-08 21:47:19,415 : DEBUG : test_NameField : firstName: Good, lastName: Bad

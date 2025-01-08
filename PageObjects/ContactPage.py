@@ -8,20 +8,29 @@ class ContactPage:
     email = (By.ID, 'email')
     selectDropDown = (By.ID, 'subject')
     message = (By.ID, 'message')
+    submitButton = (By.CSS_SELECTOR, 'input.btnSubmit')
+    successMessage = (By.CSS_SELECTOR, '.alert-success')
 
     def __init__(self, driver):
         self.driver = driver
 
-    def returnNameElements(self, firstN, lastN):
+    def populateNameElements(self, firstN, lastN):
         self.driver.find_element(*ContactPage.firstName).send_keys(firstN)
         self.driver.find_element(*ContactPage.lastName).send_keys(lastN)
 
-    def returnEmailElement(self, emailID):
+    def populateEmailElement(self, emailID):
         self.driver.find_element(*ContactPage.email).send_keys(emailID)
 
-    def getSelectElement(self, text):
+    def selectDropDownValue(self, text):
         selectObj = Select(self.driver.find_element(*ContactPage.selectDropDown))
         selectObj.select_by_visible_text(text)
 
-    def getMessage(self, message):
+    def populateMessage(self, message):
         self.driver.find_element(*ContactPage.message).send_keys(message)
+
+    def clickSubmit(self):
+        self.driver.find_element(*ContactPage.submitButton).click()
+
+    def getSuccessMessageElement(self):
+        # Using 'find_elements' so it returns an empty list if there is no such element
+        return self.driver.find_elements(*ContactPage.successMessage)
