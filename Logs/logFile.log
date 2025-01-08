@@ -711,3 +711,109 @@
 2025-01-08 23:00:27,730 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
 2025-01-08 23:00:27,730 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
 2025-01-08 23:00:27,730 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:12:50,675 : INFO : test_Dropdown : Index Value: 0
+2025-01-08 23:12:50,917 : INFO : test_Dropdown : Index Value: 1
+2025-01-08 23:12:50,917 : INFO : test_Dropdown : Index Value: 1
+2025-01-08 23:12:51,387 : INFO : test_Dropdown : Index Value: 2
+2025-01-08 23:12:51,387 : INFO : test_Dropdown : Index Value: 2
+2025-01-08 23:12:51,387 : INFO : test_Dropdown : Index Value: 2
+2025-01-08 23:12:51,835 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:12:51,835 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:12:51,835 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:12:51,835 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:12:52,296 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:12:52,296 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:12:52,296 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:12:52,296 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:12:52,296 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:12:52,776 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:12:52,776 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:12:52,776 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:12:52,776 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:12:52,776 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:12:52,776 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:12:53,250 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:12:53,250 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:12:53,250 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:12:53,250 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:12:53,250 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:12:53,250 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:12:53,250 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:16:59,346 : INFO : test_Dropdown : Index Value: 1
+2025-01-08 23:16:59,804 : INFO : test_Dropdown : Index Value: 2
+2025-01-08 23:16:59,804 : INFO : test_Dropdown : Index Value: 2
+2025-01-08 23:17:00,282 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:17:00,282 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:17:00,282 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:17:00,748 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:17:00,748 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:17:00,748 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:17:00,748 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:17:01,213 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:17:01,213 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:17:01,213 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:17:01,213 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:17:01,213 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:17:01,682 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:17:01,682 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:17:01,682 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:17:01,682 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:17:01,682 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:17:01,682 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:17:25,843 : INFO : test_Dropdown : Index Value: 1
+2025-01-08 23:17:26,304 : INFO : test_Dropdown : Index Value: 2
+2025-01-08 23:17:26,304 : INFO : test_Dropdown : Index Value: 2
+2025-01-08 23:17:26,775 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:17:26,775 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:17:26,775 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:17:27,238 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:17:27,238 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:17:27,238 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:17:27,238 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:17:27,701 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:17:27,701 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:17:27,701 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:17:27,701 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:17:27,701 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:17:28,185 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:17:28,185 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:17:28,185 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:17:28,185 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:17:28,185 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:17:28,185 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:22:07,122 : INFO : test_Dropdown : Message: 1
+2025-01-08 23:22:07,324 : INFO : test_Dropdown : Message: 2
+2025-01-08 23:22:07,324 : INFO : test_Dropdown : Message: 2
+2025-01-08 23:22:07,530 : INFO : test_Dropdown : Message: 3
+2025-01-08 23:22:07,530 : INFO : test_Dropdown : Message: 3
+2025-01-08 23:22:07,530 : INFO : test_Dropdown : Message: 3
+2025-01-08 23:22:07,739 : INFO : test_Dropdown : Message: 4
+2025-01-08 23:22:07,739 : INFO : test_Dropdown : Message: 4
+2025-01-08 23:22:07,739 : INFO : test_Dropdown : Message: 4
+2025-01-08 23:22:07,739 : INFO : test_Dropdown : Message: 4
+2025-01-08 23:22:07,949 : INFO : test_Dropdown : Message: 5
+2025-01-08 23:22:07,949 : INFO : test_Dropdown : Message: 5
+2025-01-08 23:22:07,949 : INFO : test_Dropdown : Message: 5
+2025-01-08 23:22:07,949 : INFO : test_Dropdown : Message: 5
+2025-01-08 23:22:07,949 : INFO : test_Dropdown : Message: 5
+2025-01-08 23:22:08,156 : INFO : test_Dropdown : Message: 6
+2025-01-08 23:22:08,156 : INFO : test_Dropdown : Message: 6
+2025-01-08 23:22:08,156 : INFO : test_Dropdown : Message: 6
+2025-01-08 23:22:08,156 : INFO : test_Dropdown : Message: 6
+2025-01-08 23:22:08,156 : INFO : test_Dropdown : Message: 6
+2025-01-08 23:22:08,156 : INFO : test_Dropdown : Message: 6
+2025-01-08 23:22:28,820 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyz
+2025-01-08 23:22:29,051 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:22:29,051 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:22:29,512 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyzßabcefghijklmnopqrstuvwxyzð
+2025-01-08 23:22:29,512 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyzßabcefghijklmnopqrstuvwxyzð
+2025-01-08 23:22:29,512 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyzßabcefghijklmnopqrstuvwxyzð
+2025-01-08 23:22:30,002 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyz12341234234abcefghijklmnopqrstuvwxyz===-22
+2025-01-08 23:22:30,002 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyz12341234234abcefghijklmnopqrstuvwxyz===-22
+2025-01-08 23:22:30,002 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyz12341234234abcefghijklmnopqrstuvwxyz===-22
+2025-01-08 23:22:30,002 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyz12341234234abcefghijklmnopqrstuvwxyz===-22
+2025-01-08 23:22:30,540 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:22:30,540 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:22:30,540 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:22:30,540 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:22:30,540 : INFO : test_Dropdown : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
