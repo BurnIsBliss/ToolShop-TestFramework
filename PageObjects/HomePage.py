@@ -1,6 +1,7 @@
 from selenium.webdriver.common.by import By
 from PageObjects.ProductPage import ProductPage
 from Utilities.BaseClass import BaseClass
+from PageObjects.ContactPage import ContactPage
 
 class HomePage(BaseClass):
     toolList = (By.CSS_SELECTOR, '.container > .card')
@@ -43,3 +44,7 @@ class HomePage(BaseClass):
     def selectPowerTools(self):
         self.driver.find_element(*HomePage.categoryDropDown).click()
         self.driver.find_element(*HomePage.powerToolsLink).click()
+
+    def navigateContactPage(self):
+        contactPageObj = ContactPage(self.driver)
+        return contactPageObj
