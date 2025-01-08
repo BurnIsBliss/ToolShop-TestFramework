@@ -13,7 +13,7 @@ class TestContactPage(BaseClass):
         contactPageObj = homePageObj.navigateContactPage()
         contactPageObj.populateNameElements(first, last)
         contactPageObj.populateEmailElement('a@a.aa')
-        contactPageObj.selectDropDownValue(0)
+        contactPageObj.selectDropDownValue(1)
         contactPageObj.populateMessage('abcdefghijklmnopqrstuvwxyz_abcdefghijklmnopqrstuvwxyz')
         contactPageObj.clickSubmit()
         successMessage = contactPageObj.getSuccessMessageElement()
