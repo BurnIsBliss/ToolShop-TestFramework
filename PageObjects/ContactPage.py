@@ -15,17 +15,21 @@ class ContactPage:
         self.driver = driver
 
     def populateNameElements(self, firstN, lastN):
+        self.driver.find_element(*ContactPage.firstName).clear()
+        self.driver.find_element(*ContactPage.lastName).clear()
         self.driver.find_element(*ContactPage.firstName).send_keys(firstN)
         self.driver.find_element(*ContactPage.lastName).send_keys(lastN)
 
     def populateEmailElement(self, emailID):
+        self.driver.find_element(*ContactPage.email).clear()
         self.driver.find_element(*ContactPage.email).send_keys(emailID)
 
-    def selectDropDownValue(self, text):
+    def selectDropDownValue(self, index):
         selectObj = Select(self.driver.find_element(*ContactPage.selectDropDown))
-        selectObj.select_by_visible_text(text)
+        selectObj.select_by_index(index)
 
     def populateMessage(self, message):
+        self.driver.find_element(*ContactPage.message).clear()
         self.driver.find_element(*ContactPage.message).send_keys(message)
 
     def clickSubmit(self):

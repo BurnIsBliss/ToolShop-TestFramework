@@ -591,3 +591,123 @@
 2025-01-08 21:47:19,415 : DEBUG : test_NameField : firstName: Good, lastName: Bad
 2025-01-08 21:47:19,415 : DEBUG : test_NameField : firstName: Good, lastName: Bad
 2025-01-08 21:47:19,415 : DEBUG : test_NameField : firstName: Good, lastName: Bad
+2025-01-08 21:54:12,473 : DEBUG : test_NameField : firstName: first, lastName: last
+2025-01-08 21:54:12,884 : DEBUG : test_NameField : firstName: last, lastName: first
+2025-01-08 21:54:12,884 : DEBUG : test_NameField : firstName: last, lastName: first
+2025-01-08 21:54:13,280 : DEBUG : test_NameField : firstName: Good, lastName: Bad
+2025-01-08 21:54:13,280 : DEBUG : test_NameField : firstName: Good, lastName: Bad
+2025-01-08 21:54:13,280 : DEBUG : test_NameField : firstName: Good, lastName: Bad
+2025-01-08 21:54:13,695 : DEBUG : test_NameField : firstName: ßyte, lastName: şecular
+2025-01-08 21:54:13,695 : DEBUG : test_NameField : firstName: ßyte, lastName: şecular
+2025-01-08 21:54:13,695 : DEBUG : test_NameField : firstName: ßyte, lastName: şecular
+2025-01-08 21:54:13,695 : DEBUG : test_NameField : firstName: ßyte, lastName: şecular
+2025-01-08 22:53:30,017 : INFO : test_EmailCheck : Email ID: a@a.aa
+2025-01-08 22:53:30,417 : INFO : test_EmailCheck : Email ID: b@192.168.1.68
+2025-01-08 22:53:30,417 : INFO : test_EmailCheck : Email ID: b@192.168.1.68
+2025-01-08 22:53:30,590 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 22:53:30,590 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 22:53:30,590 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 22:53:30,763 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 22:53:30,763 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 22:53:30,763 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 22:53:30,763 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 22:53:30,924 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 22:53:30,924 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 22:53:30,924 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 22:53:30,924 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 22:53:30,924 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 22:53:31,091 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 22:53:31,091 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 22:53:31,091 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 22:53:31,091 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 22:53:31,091 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 22:53:31,091 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 22:53:31,254 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 22:53:31,254 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 22:53:31,254 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 22:53:31,254 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 22:53:31,254 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 22:53:31,254 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 22:53:31,254 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 22:53:31,421 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 22:53:31,421 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 22:53:31,421 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 22:53:31,421 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 22:53:31,421 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 22:53:31,421 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 22:53:31,421 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 22:53:31,421 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 22:54:12,181 : INFO : test_EmailCheck : Email ID: a@a.aa
+2025-01-08 22:54:15,623 : INFO : test_EmailCheck : Email ID: b@192.168.1.68
+2025-01-08 22:54:15,623 : INFO : test_EmailCheck : Email ID: b@192.168.1.68
+2025-01-08 22:54:18,838 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 22:54:18,838 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 22:54:18,838 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 22:54:22,055 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 22:54:22,055 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 22:54:22,055 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 22:54:22,055 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 22:59:55,158 : INFO : test_EmailCheck : Email ID: a@a.aa
+2025-01-08 22:59:58,432 : INFO : test_EmailCheck : Email ID: b@192.168.1.68
+2025-01-08 22:59:58,432 : INFO : test_EmailCheck : Email ID: b@192.168.1.68
+2025-01-08 23:00:01,711 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 23:00:01,711 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 23:00:01,711 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 23:00:04,961 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 23:00:04,961 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 23:00:04,961 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 23:00:04,961 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 23:00:08,218 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:00:08,218 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:00:08,218 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:00:08,218 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:00:08,218 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:00:11,478 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:00:11,478 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:00:11,478 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:00:11,478 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:00:11,478 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:00:11,478 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:00:14,734 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:14,734 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:14,734 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:14,734 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:14,734 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:14,734 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:14,734 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:25,624 : INFO : test_EmailCheck : Email ID: a@a.aa
+2025-01-08 23:00:26,096 : INFO : test_EmailCheck : Email ID: b@192.168.1.68
+2025-01-08 23:00:26,096 : INFO : test_EmailCheck : Email ID: b@192.168.1.68
+2025-01-08 23:00:26,332 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 23:00:26,332 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 23:00:26,332 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 23:00:26,556 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 23:00:26,556 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 23:00:26,556 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 23:00:26,556 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 23:00:26,792 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:00:26,792 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:00:26,792 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:00:26,792 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:00:26,792 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:00:27,011 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:00:27,011 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:00:27,011 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:00:27,011 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:00:27,011 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:00:27,011 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:00:27,246 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:27,246 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:27,246 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:27,246 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:27,246 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:27,246 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:27,246 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:00:27,730 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:00:27,730 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:00:27,730 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:00:27,730 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:00:27,730 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:00:27,730 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:00:27,730 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:00:27,730 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
