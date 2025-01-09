@@ -1156,3 +1156,153 @@
 2025-01-08 23:31:54,152 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
 2025-01-08 23:31:54,152 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
 2025-01-08 23:31:54,152 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:55:08,881 : INFO : test_TotalNumberOfTools : Total number of tools: 26
+2025-01-08 23:55:08,920 : DEBUG : test_Capitalization : Skipped words with
+2025-01-08 23:55:08,936 : DEBUG : test_Capitalization : Skipped words with
+2025-01-08 23:55:08,954 : DEBUG : test_Capitalization : Skipped words (Set)
+2025-01-08 23:55:08,977 : DEBUG : test_Capitalization : Skipped words 20V
+2025-01-08 23:55:08,980 : DEBUG : test_Capitalization : Skipped words 24V
+2025-01-08 23:55:08,983 : DEBUG : test_Capitalization : Skipped words 18V
+2025-01-08 23:55:08,987 : DEBUG : test_Capitalization : Skipped words 12V
+2025-01-08 23:55:09,165 : INFO : test_PriceFormat : ['$14.15', '$12.01', '$48.41', '$14.24', '$9.17', '$13.41', '$12.58', '$11.48', '$11.14', '$17.75', '$20.14', '$18.63', '$12.18', '$20.33', '$14.14', '$38.51', '$4.92', '$13.96', '$58.48', '$73.59', '$80.19', '$100.79', '$125.23', '$66.54', '$119.24', '$46.50']
+2025-01-08 23:55:10,295 : INFO : test_ToolDetails : Combination Pliers 14.15
+2025-01-08 23:55:11,457 : INFO : test_ToolDetails : Pliers 12.01
+2025-01-08 23:55:12,605 : INFO : test_ToolDetails : Bolt Cutters 48.41
+2025-01-08 23:55:13,793 : INFO : test_ToolDetails : Long Nose Pliers 14.24
+2025-01-08 23:55:15,002 : INFO : test_ToolDetails : Slip Joint Pliers 9.17
+2025-01-08 23:55:16,204 : INFO : test_ToolDetails : Claw Hammer with Shock Reduction Grip 13.41
+2025-01-08 23:55:17,332 : INFO : test_ToolDetails : Hammer 12.58
+2025-01-08 23:55:18,466 : INFO : test_ToolDetails : Claw Hammer 11.48
+2025-01-08 23:55:19,674 : INFO : test_ToolDetails : Thor Hammer 11.14
+2025-01-08 23:55:20,844 : INFO : test_ToolDetails : Sledgehammer 17.75
+2025-01-08 23:55:22,042 : INFO : test_ToolDetails : Claw Hammer with Fiberglass Handle 20.14
+2025-01-08 23:55:23,256 : INFO : test_ToolDetails : Court Hammer 18.63
+2025-01-08 23:55:24,457 : INFO : test_ToolDetails : Wood Saw 12.18
+2025-01-08 23:55:25,655 : INFO : test_ToolDetails : Adjustable Wrench 20.33
+2025-01-08 23:55:26,856 : INFO : test_ToolDetails : Angled Spanner 14.14
+2025-01-08 23:55:28,056 : INFO : test_ToolDetails : Open-end Spanners (Set) 38.51
+2025-01-08 23:55:29,267 : INFO : test_ToolDetails : Phillips Screwdriver 4.92
+2025-01-08 23:55:30,442 : INFO : test_ToolDetails : Mini Screwdriver 13.96
+2025-01-08 23:55:31,637 : INFO : test_ToolDetails : Sheet Sander 58.48
+2025-01-08 23:55:32,832 : INFO : test_ToolDetails : Belt Sander 73.59
+2025-01-08 23:55:34,017 : INFO : test_ToolDetails : Circular Saw 80.19
+2025-01-08 23:55:35,227 : INFO : test_ToolDetails : Random Orbit Sander 100.79
+2025-01-08 23:55:36,426 : INFO : test_ToolDetails : Cordless Drill 20V 125.23
+2025-01-08 23:55:37,626 : INFO : test_ToolDetails : Cordless Drill 24V 66.54
+2025-01-08 23:55:38,810 : INFO : test_ToolDetails : Cordless Drill 18V 119.24
+2025-01-08 23:55:40,011 : INFO : test_ToolDetails : Cordless Drill 12V 46.50
+2025-01-08 23:55:41,180 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:42,307 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:43,443 : INFO : test_BrandNameCheck : Brand name 2
+2025-01-08 23:55:44,591 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:45,754 : INFO : test_BrandNameCheck : Brand name 2
+2025-01-08 23:55:46,920 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:48,055 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:49,193 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:50,357 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:51,524 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:52,692 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:53,860 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:55,020 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:56,159 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:57,322 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:58,467 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:55:59,642 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:56:00,797 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:56:01,955 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:56:03,124 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:56:04,292 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:56:05,466 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:56:06,644 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:56:07,784 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:56:08,907 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:56:10,042 : INFO : test_BrandNameCheck : Brand name 1
+2025-01-08 23:56:14,372 : INFO : test_HeadingText : Category: Hand Tools
+2025-01-08 23:56:14,959 : INFO : test_HeadingText : Category: Power Tools
+2025-01-08 23:56:14,959 : INFO : test_HeadingText : Category: Power Tools
+2025-01-08 23:56:16,093 : INFO : test_ValidTools : ['Sheet Sander\n$58.48', 'Belt Sander\n$73.59', 'Random Orbit Sander\n$100.79', 'Circular Saw\n$80.19', 'Cordless Drill 20V\n$125.23', 'Cordless Drill 24V\n$66.54', 'Cordless Drill 18V\n$119.24', 'Cordless Drill 12V\n$46.5']
+2025-01-08 23:56:17,268 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-08 23:56:17,268 : INFO : test_ValidTools : ['Claw Hammer with Shock Reduction Grip\n$13.41', 'Hammer\n$12.58', 'Claw Hammer\n$11.48', 'Thor Hammer\n$11.14', 'Sledgehammer\n$17.75', 'Claw Hammer with Fiberglass Handle\n$20.14', 'Court Hammer\n$18.63', 'Wood Saw\n$12.18', 'Adjustable Wrench\n$20.33', 'Angled Spanner\n$14.14', 'Open-end Spanners (Set)\n$38.51', 'Phillips Screwdriver\n$4.92', 'Mini Screwdriver\n$13.96', 'Combination Pliers\n$14.15', 'Pliers\n$12.01', 'Bolt Cutters\n$48.41', 'Long Nose Pliers\n$14.24', 'Slip Joint Pliers\n$9.17']
+2025-01-08 23:56:22,748 : DEBUG : test_NameField : firstName: first, lastName: last
+2025-01-08 23:56:23,208 : DEBUG : test_NameField : firstName: last, lastName: first
+2025-01-08 23:56:23,208 : DEBUG : test_NameField : firstName: last, lastName: first
+2025-01-08 23:56:23,674 : DEBUG : test_NameField : firstName: Good, lastName: Bad
+2025-01-08 23:56:23,674 : DEBUG : test_NameField : firstName: Good, lastName: Bad
+2025-01-08 23:56:23,674 : DEBUG : test_NameField : firstName: Good, lastName: Bad
+2025-01-08 23:56:24,141 : DEBUG : test_NameField : firstName: ßyte, lastName: şecular
+2025-01-08 23:56:24,141 : DEBUG : test_NameField : firstName: ßyte, lastName: şecular
+2025-01-08 23:56:24,141 : DEBUG : test_NameField : firstName: ßyte, lastName: şecular
+2025-01-08 23:56:24,141 : DEBUG : test_NameField : firstName: ßyte, lastName: şecular
+2025-01-08 23:56:24,620 : INFO : test_EmailCheck : Email ID: a@a.aa
+2025-01-08 23:56:25,094 : INFO : test_EmailCheck : Email ID: b@192.168.1.68
+2025-01-08 23:56:25,094 : INFO : test_EmailCheck : Email ID: b@192.168.1.68
+2025-01-08 23:56:25,329 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 23:56:25,329 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 23:56:25,329 : INFO : test_EmailCheck : Email ID: Fiona_Cavanagh6324@y96lx.edu
+2025-01-08 23:56:25,559 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 23:56:25,559 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 23:56:25,559 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 23:56:25,559 : INFO : test_EmailCheck : Email ID: George_Wilton8913@yahoo.store
+2025-01-08 23:56:25,787 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:56:25,787 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:56:25,787 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:56:25,787 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:56:25,787 : INFO : test_EmailCheck : Email ID: test.io.com
+2025-01-08 23:56:26,008 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:56:26,008 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:56:26,008 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:56:26,008 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:56:26,008 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:56:26,008 : INFO : test_EmailCheck : Email ID: test@io@epam.com
+2025-01-08 23:56:26,234 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:56:26,234 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:56:26,234 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:56:26,234 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:56:26,234 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:56:26,234 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:56:26,234 : INFO : test_EmailCheck : Email ID: test-io@epam-usa.com
+2025-01-08 23:56:26,714 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:56:26,714 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:56:26,714 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:56:26,714 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:56:26,714 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:56:26,714 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:56:26,714 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:56:26,714 : INFO : test_EmailCheck : Email ID: test(io"epam)example]com
+2025-01-08 23:56:26,947 : INFO : test_Dropdown : Index Value: 1
+2025-01-08 23:56:27,419 : INFO : test_Dropdown : Index Value: 2
+2025-01-08 23:56:27,419 : INFO : test_Dropdown : Index Value: 2
+2025-01-08 23:56:27,910 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:56:27,910 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:56:27,910 : INFO : test_Dropdown : Index Value: 3
+2025-01-08 23:56:28,399 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:56:28,399 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:56:28,399 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:56:28,399 : INFO : test_Dropdown : Index Value: 4
+2025-01-08 23:56:28,867 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:56:28,867 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:56:28,867 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:56:28,867 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:56:28,867 : INFO : test_Dropdown : Index Value: 5
+2025-01-08 23:56:29,362 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:56:29,362 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:56:29,362 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:56:29,362 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:56:29,362 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:56:29,362 : INFO : test_Dropdown : Index Value: 6
+2025-01-08 23:56:29,821 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyz
+2025-01-08 23:56:30,052 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:56:30,052 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:56:30,495 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzßabcefghijklmnopqrstuvwxyzð
+2025-01-08 23:56:30,495 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzßabcefghijklmnopqrstuvwxyzð
+2025-01-08 23:56:30,495 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzßabcefghijklmnopqrstuvwxyzð
+2025-01-08 23:56:30,980 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyz12341234234abcefghijklmnopqrstuvwxyz===-22
+2025-01-08 23:56:30,980 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyz12341234234abcefghijklmnopqrstuvwxyz===-22
+2025-01-08 23:56:30,980 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyz12341234234abcefghijklmnopqrstuvwxyz===-22
+2025-01-08 23:56:30,980 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyz12341234234abcefghijklmnopqrstuvwxyz===-22
+2025-01-08 23:56:31,543 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:56:31,543 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:56:31,543 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:56:31,543 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-08 23:56:31,543 : INFO : test_MessageField : Message: abcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyzabcefghijklmnopqrstuvwxyz
+2025-01-09 21:18:31,222 : INFO : test_CategoryCheckPowerTools : Category:Sander
