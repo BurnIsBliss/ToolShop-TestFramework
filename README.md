@@ -21,15 +21,15 @@ The framework has been designed in a way, as to provide easy comprehension and m
 
 ## Test Cases
 
-    * Tool name, brand name and pricing tests (test_Tools.py)
-        1. Check the total number of tools within the page.
-        2. Check for the proper naming format for each tool.
-        3. Check whether all the prices are displayed in '$' format.
-        4. Check whether the tool details mentioned within the home page and the product page are the same.
-        5. Check the brand name for each tool.
-    * Tool category tests (test_category.py)
-        1. Check the respective headings for both (Hand tools and Power tools) tool categories.
-        2. Check whether the correct tools are mentioned for both tool categories.
-        3. Check the category name for both set of tools.
-    * Contact page tests (test_contactPage.py)
-        1. Check with various values for the name, email, select dropdown and the message fields.
+-   Tool name, brand name and pricing tests (test_Tools.py)
+    1. Check the total number of tools within the page.
+    2. Check for the proper naming format for each tool.
+    3. Check whether all the prices are displayed in '$' format.
+    4. Check whether the tool details mentioned within the home page and the product page are the same.
+    5. Check the brand name for each tool.
+-   Tool category tests (test_category.py)
+    1. Check the respective headings for both (Hand tools and Power tools) tool categories.
+    2. Check whether the correct tools are mentioned for both tool categories.
+    3. Check the category name for both set of tools.
+-   Contact page tests (test_contactPage.py)
+    1. Check with various values for the name, email, select dropdown and the message fields.
