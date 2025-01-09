@@ -4,14 +4,14 @@ In this project I've built an automation testing framework by harnessing the pow
 
 ## Project Structure
 
-The framework has been designed in a way, as to provide easy comprehension and maintainability. Here's a quick short description of each directory:
+The framework has been designed in a way, as to provide easy comprehension and maintainability. Here's a brief description of each directory:
 
-    1. PageObjects: Includes the different pages where we'll be running the tests.
-    2. Tests: Houses the test files which inturn contains valid test cases for each page mentioned within the 'PageObjects' directory.
-    3. Utilities: Contains the 'BaseClass' class that is necessary for each test case.
-    4. Logs: Place to save the log file, which contains necessary details of each run.
-    5. Reports: Contains the 'report.html' file that displays the outcomes of the executed tests in HTML format.
-    6. conftest.py: Implemented a custom commandline parameter and SetUp() fixture within the file.
+> 1.  PageObjects: Includes the different pages where the tests would be run.
+> 2.  Tests: Houses the test files which inturn contains valid test cases for each page mentioned within the 'PageObjects' directory.
+> 3.  Utilities: Contains the 'BaseClass' class that is necessary for each test case.
+> 4.  Logs: Place to save the log file, which contains necessary details of each run.
+> 5.  Reports: Contains the 'report.html' file that displays the outcomes of the executed tests in HTML format.
+> 6.  conftest.py: Implemented a custom commandline parameter and SetUp() fixture within the file.
 
 ## Project Features
 
